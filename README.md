@@ -20,7 +20,7 @@
 │
 └── static/                  # CSS, JS, ảnh (nếu có)
 ```
-# SQL-database
+# SQL Server - Database
 ```
 -- Tạo CSDL
 CREATE DATABASE FlaskAuth;
