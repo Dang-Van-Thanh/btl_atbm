@@ -63,13 +63,25 @@ Python 3.11.9 – Ngôn ngữ chính
 Flask – Framework web nhẹ cho backend
 ## Bảo mật và mã hóa
 SHA-256 – Hàm băm dùng để băm tên đăng nhập và mật khẩu
+
 ![image](https://github.com/user-attachments/assets/dc256f53-6088-4b4a-b6ef-8c155d274b85)
 
-Triple DES (3DES) – Mã hóa kết quả băm để tăng tính bảo mật
 ![image](https://github.com/user-attachments/assets/b4e0f0ea-0714-429a-b618-885cae00ae52)
+
+Triple DES (3DES) – Mã hóa kết quả băm để tăng tính bảo mật
+
+![image](https://github.com/user-attachments/assets/d2faafb3-a648-4a98-8504-a95d8beeeb74)
+
+![image](https://github.com/user-attachments/assets/b68ee8ec-d472-4c38-8e81-ab17fd48208b)
+
+![image](https://github.com/user-attachments/assets/320e34f9-df3c-4197-82ce-fcca196b377c)
+
 Salt ngẫu nhiên – Tăng độ phức tạp cho mỗi người dùng để chống rainbow table attack
+
 ![image](https://github.com/user-attachments/assets/aa625a7d-8119-485e-b69e-d7d34bd81d95)
+
 ![image](https://github.com/user-attachments/assets/f3cefa8f-f72f-4d5f-9835-b213becbe6c3)
+
 # Cách chạy
 ## Tải thư viện
 ```
