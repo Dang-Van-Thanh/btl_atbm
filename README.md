@@ -60,6 +60,7 @@ ADMIN_ACCESS_KEY=admin1
 # Công nghệ áp dụng
 ## Ngôn ngữ và Framework
 Python 3.11.9 – Ngôn ngữ chính
+
 Flask – Framework web nhẹ cho backend
 ## Bảo mật và mã hóa
 SHA-256 – Hàm băm dùng để băm tên đăng nhập và mật khẩu
